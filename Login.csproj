@@ -149,9 +149,14 @@
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\BaseModel.cs" />
+    <Compile Include="Models\CartItem.cs" />
+    <Compile Include="Models\Category.cs" />
     <Compile Include="Models\DataContext.cs" />
     <Compile Include="Models\ForgotModel.cs" />
     <Compile Include="Models\HomeModel.cs" />
+    <Compile Include="Models\Product.cs" />
+    <Compile Include="Models\ProductContext.cs" />
+    <Compile Include="Models\ProductDatabaseInitializer.cs" />
     <Compile Include="Models\RegisterModel.cs" />
     <Compile Include="Models\LoginModel.cs" />
     <Compile Include="Models\ResetPasswordModel.cs" />

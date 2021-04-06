@@ -5,6 +5,8 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 using System.Web.Security;
+using System.Data.Entity;
+using WingtipToys.Models;
 
 
 // exo : creer un controller account avec quatre action qui mene a quatre vues differentt
@@ -22,6 +24,8 @@ namespace Login
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+
+            Database.SetInitializer(new ProductDatabaseInitializer());
         }
         protected void Session_End()
         {
