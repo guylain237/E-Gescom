@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Login.csproj", "{CF8D1BA1-7A39-4DBB-AA13-7807800B50D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GESCOM", "..\..\..\..\Desktop\e-commerce\GESCOM\GESCOM.csproj", "{B897B7AA-6A15-43D5-AB22-8FA1CA9438D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CF8D1BA1-7A39-4DBB-AA13-7807800B50D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CF8D1BA1-7A39-4DBB-AA13-7807800B50D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CF8D1BA1-7A39-4DBB-AA13-7807800B50D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CF8D1BA1-7A39-4DBB-AA13-7807800B50D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B897B7AA-6A15-43D5-AB22-8FA1CA9438D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B897B7AA-6A15-43D5-AB22-8FA1CA9438D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B897B7AA-6A15-43D5-AB22-8FA1CA9438D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B897B7AA-6A15-43D5-AB22-8FA1CA9438D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
